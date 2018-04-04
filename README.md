@@ -13,3 +13,6 @@ Magento ver 2.2.2
 
 ## Multiple or Single order delete from order gird
 [![massaction](massaction.jpg)](/uri)
+
+## Single order delete from view page
+[![massaction](dofview.jpg)](/uri)
