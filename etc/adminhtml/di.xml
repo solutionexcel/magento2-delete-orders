@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+ **
+ * @package     Solutionexcel_DeleteOrders
+ * @author      SolutionExcel - https://www.solutionexcel.com/ - info@solutionexcel.com
+ * @copyright   Copyright © 2018 SolutionExcel. All rights reserved.
+ * @license     https://opensource.org/licenses/AFL-3.0  Academic Free License 3.0 | Open Source Initiative
+ **
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Sales\Block\Adminhtml\Order\View">
+        <plugin name="solutionexcel_deleteorders_adminhtml_order_view_add_button" type="Solutionexcel\DeleteOrders\Plugin\Sales\Block\Adminhtml\Order\View" sortOrder="15" />
+    </type>
+</config>
