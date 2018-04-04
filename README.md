@@ -16,3 +16,7 @@ Magento ver 2.2.2
 
 ## Single order delete from view page
 [![massaction](dofview.jpg)](/uri)
+
+If you have any inquiry please contact with me via email or skype.
+* Email: [info@solutionexcel.com]
+* Skype: solutionexcel
