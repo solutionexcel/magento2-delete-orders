@@ -30,5 +30,6 @@ Magento ver 2.2.2
  * php bin/magento cache:flush
 
 If you have any inquiry please contact with me via email or skype.
-* Email: [info@solutionexcel.com]
+* Email: [info@solutionexcel.com](mailto:info@solutionexcel.com)
 * Skype: solutionexcel
+* Web: [Solution Excel](https://www.solutionexcel.com/)
