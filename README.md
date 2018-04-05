@@ -24,7 +24,7 @@ Magento ver 2.2.2
  * Create a folder {Magento 2 root}/app/code/Solutionexcel/DeleteOrders
  * Copy all files and folder to DeleteOrders folder
 
-#### Step 2 - Enable DeleteOrders
+#### Step 2 - Enable/Install via command line
  * php bin/magento module:enable --clear-static-content Solutionexcel_DeleteOrders
  * php bin/magento setup:upgrade
  * php bin/magento cache:flush
