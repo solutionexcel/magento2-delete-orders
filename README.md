@@ -1,10 +1,10 @@
 # Magento 2 Delete Orders Extension
 Magento 2 delete single or multiple order.
 
-# Compatible With:
+## Compatible With:
 Magento ver 2.2.2
 
-# Available Features:
+## Available Features:
 * Multiple or Single order delete from backend order gird using massaction.
 * Manually delete single order from order view page.
 * Automatically remove/delete order invoice if exists.
